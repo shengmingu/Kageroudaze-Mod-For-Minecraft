@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "kageroudaze:scarf"
+    },
+    "title": {
+      "translate": "advancements.kageroudaze.scarf.title"
+    },
+    "description": {
+      "translate": "advancements.kageroudaze.scarf.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "kageroudaze:childrenrecord",
+  "criteria": {
+    "get_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["kageroudaze:scarf"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["get_item"]
+  ]
+}

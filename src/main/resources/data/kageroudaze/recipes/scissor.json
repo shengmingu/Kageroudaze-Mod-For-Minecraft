@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "key": {
+    "W": {
+      "item": "minecraft:iron_ingot"
+    },
+    "A": {
+      "item": "kageroudaze:megasameru"
+    }
+  },
+  "pattern": [
+    "W W",
+    " A ",
+    " W "
+  ],
+
+  "result": {
+    "item": "kageroudaze:scissor"
+
+  }
+}

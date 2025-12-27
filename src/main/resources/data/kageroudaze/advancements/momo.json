@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "kageroudaze:mewokorasu"
+    },
+    "title": {
+      "translate": "advancements.kageroudaze.momo.title"
+    },
+    "description": {
+      "translate": "advancements.kageroudaze.momo.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "kageroudaze:meoubau",
+  "criteria": {
+    "get_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["kageroudaze:meoubau"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["get_item"]
+  ]
+}

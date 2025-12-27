@@ -1,0 +1,39 @@
+{
+	"schemaVersion": 1,
+	"id": "kageroudaze",
+	"version": "${version}",
+	"name": "kageroudaze",
+	"description": "この夏の物語は、終わらない",
+	"authors": [
+		"shengmingu"
+	],
+	"contact": {
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/kageroudaze/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.mekakucity.Kageroudaze"
+		],
+		"fabric-datagen": [
+			"com.mekakucity.KageroudazeDataGenerator"
+		],
+		"client": [
+			"com.mekakucity.Kageroudazeclient"
+
+		]
+	},
+	"mixins": [
+		"kageroudaze.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

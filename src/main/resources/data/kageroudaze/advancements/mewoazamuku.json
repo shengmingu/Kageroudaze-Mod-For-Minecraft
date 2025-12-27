@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "kageroudaze:mewoazamuku"
+    },
+    "title": {
+      "translate": "advancements.kageroudaze.mewoazamuku.title"
+    },
+    "description": {
+      "translate": "advancements.kageroudaze.mewoazamuku.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "kageroudaze:childrenrecord",
+  "criteria": {
+    "get_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["kageroudaze:mewoazamuku"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["get_item"]
+  ]
+}

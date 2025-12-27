@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "key": {
+    "W": {
+      "item": "minecraft:red_wool"
+    },
+    "A": {
+      "item": "kageroudaze:mewokakeru"
+    }
+  },
+  "pattern": [
+    "  W",
+    "AW ",
+    "W  "
+  ],
+
+  "result": {
+    "item": "kageroudaze:scarf"
+
+  }
+}

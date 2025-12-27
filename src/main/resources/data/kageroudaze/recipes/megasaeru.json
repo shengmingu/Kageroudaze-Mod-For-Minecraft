@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kageroudaze:mekaku"
+    },
+    {
+      "item": "kageroudaze:mewonusumu"
+    },
+    {
+      "item": "kageroudaze:mewoazamuku"
+    },
+    {
+      "item": "kageroudaze:mewoawaseru"
+    },
+    {
+      "item": "kageroudaze:meoubau"
+    },
+    {
+      "item": "kageroudaze:megasameru"
+    },
+    {
+      "item": "kageroudaze:mewokorasu"
+    },
+    {
+      "item": "kageroudaze:mewosamasu"
+    },
+    {
+      "item": "kageroudaze:mewokakeru"
+    }
+  ],
+  "result": {
+    "item": "kageroudaze:megasaeru",
+    "count": 1
+
+  }
+}

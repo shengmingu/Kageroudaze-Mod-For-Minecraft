@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "kageroudaze:megasaeru"
+    },
+    "title": {
+      "translate": "advancements.kageroudaze.deadandseek.title"
+    },
+    "description": {
+      "translate": "advancements.kageroudaze.deadandseek.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "kageroudaze:childrenrecord",
+  "criteria": {
+    "get_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["kageroudaze:megasaeru"]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["get_item"]
+  ]
+}

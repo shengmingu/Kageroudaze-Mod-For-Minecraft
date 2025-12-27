@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "key": {
+    "W": {
+      "item": "minecraft:iron_ingot"
+    },
+    "A": {
+      "item": "minecraft:glass"
+    },
+    "S": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "WAW",
+    "WSW",
+    "WAW"
+  ],
+
+  "result": {
+    "item": "kageroudaze:phone"
+
+  }
+}

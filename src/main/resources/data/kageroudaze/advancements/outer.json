@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "kageroudaze:megasaeru"
+    },
+    "title": {
+      "translate": "advancements.kageroudaze.outer.title"
+    },
+    "description": {
+      "translate": "advancements.kageroudaze.outer.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "kageroudaze:deadandseek",
+  "criteria": {
+    "triggered": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    ["triggered"]
+  ],
+  "rewards": {
+    "experience": 100
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "display": {
+    "icon": {
+      "item": "kageroudaze:mewoawaseru"
+    },
+    "title": {
+      "translate": "advancements.kageroudaze.all.title"
+    },
+    "description": {
+      "translate": "advancements.kageroudaze.all.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "kageroudaze:azami",
+  "criteria": {
+    "get_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+
+            "items": ["kageroudaze:mewoawaseru"]
+
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["get_item"]
+  ]
+}

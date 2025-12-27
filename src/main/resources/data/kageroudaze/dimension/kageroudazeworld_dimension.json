@@ -1,0 +1,40 @@
+{
+  "type": "kageroudaze:kageroudazeworld_dimension",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "minecraft:overworld",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "kageroudaze:kageroudazeworld_biome"
+    },
+    "structures": {
+      "structures": {
+        "minecraft:village_plains": {
+          "spacing": 32,
+          "separation": 8,
+          "salt": 10387312
+        },
+        "minecraft:village_desert": {
+          "spacing": 34,
+          "separation": 8,
+          "salt": 10387313
+        },
+        "minecraft:village_savanna": {
+          "spacing": 34,
+          "separation": 8,
+          "salt": 10387314
+        },
+        "minecraft:village_snowy": {
+          "spacing": 34,
+          "separation": 8,
+          "salt": 10387315
+        },
+        "minecraft:village_taiga": {
+          "spacing": 32,
+          "separation": 8,
+          "salt": 10387316
+        }
+      }
+    }
+  }
+}

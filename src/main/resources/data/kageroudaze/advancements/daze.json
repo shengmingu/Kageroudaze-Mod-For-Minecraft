@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "kageroudaze:mewokorasu"
+    },
+    "title": {
+      "translate": "advancements.kageroudaze.daze.title"
+    },
+    "description": {
+      "translate": "advancements.kageroudaze.daze.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/end.png"
+  },
+  "parent": "kageroudaze:childrenrecord",
+  "criteria": {
+    "entered_endroll": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "kageroudaze:kageroudazeworld_dimension"
+      }
+    }
+  }
+
+}

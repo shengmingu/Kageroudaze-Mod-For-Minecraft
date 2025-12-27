@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "item": "kageroudaze:sketchbook"
+    },
+    "title": {
+      "translate": "advancements.kageroudaze.summertimerecord.title"
+    },
+    "description": {
+      "translate": "advancements.kageroudaze.summertimerecord.description"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "kageroudaze:outer",
+  "criteria": {
+    "get_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": ["kageroudaze:sketchbook"]
+
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["get_item"]
+  ]
+}

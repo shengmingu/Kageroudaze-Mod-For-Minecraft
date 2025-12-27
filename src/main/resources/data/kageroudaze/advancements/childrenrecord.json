@@ -1,0 +1,28 @@
+
+{
+  "display": {
+    "icon": {
+      "item": "kageroudaze:calendar"
+    },
+    "title": {
+      "translate": "advancements.kageroudaze.childrenrecord.title"
+    },
+    "description":{
+      "translate": "advancements.kageroudaze.childrenrecord.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/block/light_blue_concrete.png"
+  },
+  "parent": "kageroudaze:root",
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    ["tick"]
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "key": {
+    "W": {
+      "item": "minecraft:obsidian"
+    },
+    "A": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "W W",
+    " A ",
+    "W W"
+  ],
+
+  "result": {
+    "item": "kageroudaze:ouroboros"
+
+  }
+}

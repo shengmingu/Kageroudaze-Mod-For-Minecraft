@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "key": {
+    "W": {
+      "item": "minecraft:book"
+    },
+    "A": {
+      "item": "minecraft:clock"
+    }
+  },
+  "pattern": [
+    "A  ",
+    "W  ",
+    "   "
+  ],
+
+  "result": {
+    "item": "kageroudaze:calendar"
+
+  }
+}

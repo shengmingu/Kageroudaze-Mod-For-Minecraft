@@ -1,0 +1,139 @@
+{
+  "itemGroup.kageroudaze_group": "阳炎眩乱",
+
+  "item.kageroudaze.mekaku": "目之能力-目隐",
+  "item.kageroudaze.mekaku.text": "目を隠す話（蒙上双眼的故事）",
+  "item.kageroudaze.mekaku.start": "§a目隐开始",
+  "item.kageroudaze.mekaku.over": "§7目隐结束/目を忍ぶ話（避开视线的故事）",
+
+  "item.kageroudaze.mewonusumu": "目之能力-目盗",
+  "item.kageroudaze.mewonusumu.text": "目を盗む話（盗取视线的故事）",
+  "item.kageroudaze.mewonusumu.detail": "§6=== 目盗结果 ===",
+  "item.kageroudaze.mewonusumu.item": "§6=== 物品栏内容 ===",
+  "item.kageroudaze.mewonusumu.type": "§e目标类型: §f生物",
+  "item.kageroudaze.mewonusumu.start": "§6目盗完成！",
+  "item.kageroudaze.mewonusumu.fail": "§c未发现目标生物",
+
+
+
+
+  "item.kageroudaze.mewoazamuku": "目之能力-目欺",
+  "item.kageroudaze.mewoazamuku.text": "目を欺く話（欺骗双目的故事）",
+  "item.kageroudaze.mewoazamuku.start": "目欺开始",
+  "item.kageroudaze.mewoazamuku.over": "目欺结束",
+
+  "item.kageroudaze.mewoawaseru": "目之能力-目合",
+  "item.kageroudaze.mewoawaseru.text": "目を合わせる話（视线交会的故事）",
+
+
+  "item.kageroudaze.meoubau": "目之能力-目夺",
+  "item.kageroudaze.meoubau.text": "目を奪う話（夺去目光的故事）",
+  "item.kageroudaze.meoubau.start": "目を輝かせる話（使双眼闪耀的故事）",
+  "item.kageroudaze.meoubau.over": "目夺结束",
+
+  "item.kageroudaze.megasameru": "目之能力-目觉",
+  "item.kageroudaze.megasameru.text": "目を覚ます話（双目觉醒的故事）",
+  "item.kageroudaze.megasameru.use": "目を疑う話（怀疑双眼的故事）",
+  "item.kageroudaze.megasameru.cancel": "目付きが悪い話（眼神很差劲的故事）",
+
+  "item.kageroudaze.mewokorasu": "目之能力-目凝",
+  "item.kageroudaze.mewokorasu.text": "目も眩む話（连眼睛都晕眩的故事）",
+
+  "item.kageroudaze.mewosamasu": "目之能力-目醒",
+  "item.kageroudaze.mewosamasu.text": "目を醒ます話（睁开双目的故事）",
+  "item.kageroudaze.mewosamasu.use": "目醒开始.....",
+
+  "item.kageroudaze.megasaeru": "目之能力-目冴",
+  "item.kageroudaze.megasaeru.text": "目は口ほどに物を言う話（眼神传达话语的故事）",
+
+  "item.kageroudaze.mewokakeru": "目之能力-目挂",
+  "item.kageroudaze.mewokakeru.text": "目に浮かぶ話（浮现在眼前的故事）",
+
+  "item.kageroudaze.meniyakitsukeru": "目之能力-目烧",
+  "item.kageroudaze.meniyakitsukeru.text": "目に焼き付いた話（烙印在眼底的故事）",
+
+  "item.kageroudaze.calendar": "8月15日日历",
+  "item.kageroudaze.calendar.notion": "阳炎世界无法使用该道具",
+  "item.kageroudaze.calendar.start": "Lets Daze!",
+  "item.kageroudaze.calendar.time": "当前时间为-------8.15",
+  "item.kageroudaze.calendar.next": "距离下一天还有:",
+  "item.kageroudaze.calendar.text": "目に物見せる話（看清现实的故事）",
+
+  "item.kageroudaze.phone": "手机",
+  "item.kageroudaze.phone.text": "目を背ける話（无法正视的故事）",
+  "item.kageroudaze.phone.info": "§c18岁少年§f的手机，貌似寄宿着§9信息生命体",
+
+
+
+  "item.kageroudaze.scarf": "围巾",
+  "item.kageroudaze.scarf.text": "目の届かない話（目光传达不到的故事）",
+  "item.kageroudaze.scarf.info": "不知道是何人的围巾，寄托了不知何人的思恋。",
+  "item.kageroudaze.scarf.red": "红色是英雄的颜色",
+
+  "item.kageroudaze.ouroboros": "目之蛇",
+  "item.kageroudaze.ouroboros.text": "目を掛ける話（双目注视的故事）",
+
+  "entity.kageroudaze.kuroha": "Kuroha",
+
+
+  "item.kageroudaze.scissor": "剪刀",
+  "item.kageroudaze.scissor.start": "永远的......刻印于双目之中",
+  "item.kageroudaze.scissor.arrive": "不要用剪刀自杀.......",
+  "item.kageroudaze.scissor.not": "未到八月十五日",
+
+  "item.kageroudaze.sketchbook": "遥的素描本",
+  "item.kageroudaze.sketchbook.text": "目が廻った話（放眼回望的故事）",
+
+  "message.kageroudaze.item.useplace": "不可放置",
+  "message.kageroudaze.death.get": "从死亡的轮回中回到现世，你获得了: ",
+  "message.kageroudaze.death.teleport.reason1": "§6不要追猫跳楼......",
+  "message.kageroudaze.death.teleport.reason2": "§6不要跳楼......",
+  "message.kageroudaze.death.teleport.reason3": "§6不要追猫......",
+
+  "advancements.kageroudaze.root.title": "目隐都市的演绎者",
+  "advancements.kageroudaze.root.description": "少年少女前进吧",
+  "advancements.kageroudaze.childrenrecord.title": "孩童记录",
+  "advancements.kageroudaze.childrenrecord.description": "看清现实的故事",
+  "advancements.kageroudaze.ene.title": "人造敌人",
+  "advancements.kageroudaze.ene.description": "无法正视的故事",
+  "advancements.kageroudaze.mekaku.title": "目隐编码",
+  "advancements.kageroudaze.mekaku.description": "蒙上双眼的故事",
+  "advancements.kageroudaze.daze.title": "阳炎眩乱",
+  "advancements.kageroudaze.daze.description": "连眼睛都晕眩的故事",
+  "advancements.kageroudaze.mewoawaseru.title": "空想森林",
+  "advancements.kageroudaze.mewoawaseru.description": "视线交汇的故事",
+  "advancements.kageroudaze.megasameru.title": "耳机演绎者",
+  "advancements.kageroudaze.megasameru.description": "怀疑双眼的故事",
+  "advancements.kageroudaze.eneteleport.title": "Ene的电脑之旅",
+  "advancements.kageroudaze.eneteleport.description": "双目觉醒的故事",
+  "advancements.kageroudaze.deadandseek.title": "死亡与追寻",
+  "advancements.kageroudaze.deadandseek.description": "使双目锐利的故事",
+  "advancements.kageroudaze.mewosamasu.title": "Konoha的世界事情",
+  "advancements.kageroudaze.mewosamasu.description": "睁开双目的故事",
+  "advancements.kageroudaze.meoubau.title": "如月专注",
+  "advancements.kageroudaze.meoubau.description": "夺去目光的故事",
+  "advancements.kageroudaze.scarf.title": "透明解答",
+  "advancements.kageroudaze.scarf.description": "逃离视线的故事",
+  "advancements.kageroudaze.azami.title": "死神记录",
+  "advancements.kageroudaze.azami.description": "双目注视的故事",
+  "advancements.kageroudaze.rain.title": "群青雨",
+  "advancements.kageroudaze.rain.description": "入目也不会痛的故事",
+  "advancements.kageroudaze.mewonusumu.title": "少年勇气",
+  "advancements.kageroudaze.mewonusumu.description": "盗取视线的故事",
+  "advancements.kageroudaze.mewoazamuku.title": "夜谈欺骗",
+  "advancements.kageroudaze.mewoazamuku.description": "欺骗双目的故事",
+  "advancements.kageroudaze.meniyakitsukeru.title": "回忆补时",
+  "advancements.kageroudaze.meniyakitsukeru.description": "烙印在眼底的故事",
+  "advancements.kageroudaze.mewokakeru.title": "文乃的幸福理论",
+  "advancements.kageroudaze.mewokakeru.description": "浮现在眼前的故事",
+  "advancements.kageroudaze.momo.title": "赏月独奏会",
+  "advancements.kageroudaze.momo.description": "使双眼闪耀的故事",
+  "advancements.kageroudaze.yesterday.title": "夕景昨日",
+  "advancements.kageroudaze.yesterday.description": "眼神很差劲的故事",
+  "advancements.kageroudaze.outer.title": "界外科学",
+  "advancements.kageroudaze.outer.description": "眼神传达话语的故事",
+  "advancements.kageroudaze.all.title": "茉莉的架空世界",
+  "advancements.kageroudaze.all.description": "闭上眼睛的故事",
+  "advancements.kageroudaze.summertimerecord.title": "夏令时记录",
+  "advancements.kageroudaze.summertimerecord.description": "放眼回望的故事"
+}

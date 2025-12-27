@@ -1,0 +1,82 @@
+{
+  "itemGroup.kageroudaze_group": "Kagerou Daze",
+
+  "item.kageroudaze.mekaku": "Eye Ability - Mekakushi",
+  "item.kageroudaze.mekaku.text": "目を隠す話 (The Story of Covering Eyes)",
+  "item.kageroudaze.mekaku.start": "§aMekakushi Activated",
+  "item.kageroudaze.mekaku.over": "§7Mekakushi Ended/目を忍ぶ話 (The Story of Avoiding Sight)",
+
+  "item.kageroudaze.mewonusumu": "Eye Ability - Medou",
+  "item.kageroudaze.mewonusumu.text": "目を盗む話 (The Story of Stealing Sight)",
+  "item.kageroudaze.mewonusumu.detail": "§6=== Medou Result ===",
+  "item.kageroudaze.mewonusumu.name": "§eName: §f",
+  "item.kageroudaze.mewonusumu.life": "§eHealth: §f",
+  "item.kageroudaze.mewonusumu.armor": "§eArmor: §f",
+  "item.kageroudaze.mewonusumu.item": "§6=== Inventory Contents ===",
+  "item.kageroudaze.mewonusumu.item1": "§7- §f",
+  "item.kageroudaze.mewonusumu.item2": " §8x",
+  "item.kageroudaze.mewonusumu.item3": "§7(Slot: ",
+  "item.kageroudaze.mewonusumu.type": "§eTarget Type: §fEntity",
+  "item.kageroudaze.mewonusumu.start": "§6Medou Complete!",
+  "item.kageroudaze.mewonusumu.fail": "§cNo Target Entity Found",
+
+  "item.kageroudaze.mewoazamuku": "Eye Ability - Meazamuku",
+  "item.kageroudaze.mewoazamuku.text": "目を欺く話 (The Story of Deceiving Eyes)",
+  "item.kageroudaze.mewoazamuku.start": "Meazamuku Activated",
+  "item.kageroudaze.mewoazamuku.over": "Meazamuku Ended",
+
+  "item.kageroudaze.mewoawaseru": "Eye Ability - Meawaseru",
+  "item.kageroudaze.mewoawaseru.text": "目を合わせる話 (The Story of Meeting Eyes)",
+
+  "item.kageroudaze.meoubau": "Eye Ability - Meoubau",
+  "item.kageroudaze.meoubau.text": "目を奪う話 (The Story of Seizing Sight)",
+  "item.kageroudaze.meoubau.start": "目を輝かせる話 (The Story of Making Eyes Shine)",
+  "item.kageroudaze.meoubau.over": "Meoubau Ended",
+
+  "item.kageroudaze.megasameru": "Eye Ability - Megasameru",
+  "item.kageroudaze.megasameru.text": "目を覚ます話 (The Story of Awakening Eyes)",
+  "item.kageroudaze.megasameru.use": "目を背ける話 (The Story of Being Unable to Look Directly)",
+  "item.kageroudaze.megasameru.cancel": "目付きが悪い話 (The Story of a Bad Gaze)",
+
+  "item.kageroudaze.mewokorasu": "Eye Ability - Mewokorasu",
+  "item.kageroudaze.mewokorasu.text": "目も眩む話 (The Story That Dazzles Even the Eyes)",
+
+  "item.kageroudaze.mewosamasu": "Eye Ability - Mewosamasu",
+  "item.kageroudaze.mewosamasu.text": "目を醒ます話 (The Story of Opening Eyes)",
+  "item.kageroudaze.mewosamasu.use": "Mewosamasu Activated.....",
+
+  "item.kageroudaze.megasaeru": "Eye Ability - Megasaeru",
+  "item.kageroudaze.megasaeru.text": "目は口ほどに物を言う話 (The Story of Eyes Conveying Words)",
+
+  "item.kageroudaze.mewokakeru": "Eye Ability - Mewokakeru",
+  "item.kageroudaze.mewokakeru.text": "目に浮かぶ話 (The Story That Appears Before the Eyes)",
+
+  "item.kageroudaze.meniyakitsukeru": "Eye Ability - Meniyakitsukeru",
+  "item.kageroudaze.meniyakitsukeru.text": "目に焼き付いた話 (The Story Burned Into the Eyes)",
+
+  "item.kageroudaze.calendar": "August 15 Calendar",
+  "item.kageroudaze.calendar.notion": "This item cannot be used in the Kagerou World",
+  "item.kageroudaze.calendar.start": "Lets Daze!",
+  "item.kageroudaze.calendar.time": "Current Time is ------- August 15",
+  "item.kageroudaze.calendar.next": "Time Until Next Day:",
+
+  "item.kageroudaze.phone": "Phone",
+  "item.kageroudaze.phone.text": "目を背ける話 (The Story of Being Unable to Look Directly)",
+  "item.kageroudaze.phone.info": "§cAn 18-year-old boy's§f phone, seemingly inhabited by a §9data lifeform",
+
+  "item.kageroudaze.scarf": "Scarf",
+  "item.kageroudaze.scarf.text": "目の届かない話 (The Story of Sight That Cannot Reach)",
+  "item.kageroudaze.scarf.info": "A scarf of unknown ownership, entrusted with unknown affections.",
+  "item.kageroudaze.scarf.red": "Red is the color of a hero",
+
+  "item.kageroudaze.scissor": "Scissors",
+  "item.kageroudaze.scissor.start": "Forever... engraved in the eyes",
+  "item.kageroudaze.scissor.arrive": "Don't commit suicide with scissors.......",
+  "item.kageroudaze.scissor.not": "Not Yet August 15",
+
+  "message.kageroudaze.item.useplace": "Cannot Be Placed",
+  "message.kageroudaze.death.get": "Returning to the present world from the cycle of death, you obtained: ",
+  "message.kageroudaze.death.teleport.reason1": "§6Don't chase cats and jump off buildings......",
+  "message.kageroudaze.death.teleport.reason2": "§6Don't jump off buildings......",
+  "message.kageroudaze.death.teleport.reason3": "§6Don't chase cats......"
+}

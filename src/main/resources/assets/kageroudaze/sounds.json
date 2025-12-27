@@ -1,0 +1,10 @@
+{
+
+  "shoot_sound": {
+    "subtitle": "subtitles.darkdungeonwar.shoot_sound",
+    "sounds": [
+      "darkdungeonwar:gunshot"
+    ]
+  }
+
+}

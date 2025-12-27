@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "item": "kageroudaze:mewoawaseru"
+    },
+    "title": {
+      "translate": "advancements.kageroudaze.rain.title"
+    },
+    "description": {
+      "translate": "advancements.kageroudaze.rain.description"
+    },
+
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "kageroudaze:childrenrecord",
+  "criteria": {
+    "found_marryshome": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": {
+          "location": {
+            "biome": "minecraft:forest",
+            "dimension": "minecraft:overworld",
+            "structure": "kageroudaze:marryshome"
+
+          }
+        }
+      }
+    }
+  },
+  "requirements": [
+    ["found_marryshome"]
+  ]
+
+}
